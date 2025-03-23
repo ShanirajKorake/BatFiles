@@ -53,7 +53,7 @@ Want to improve BatFile? Fork the repo and submit a PR!
 ---
 
 ## 📜 License  
-This project is licensed under the **MIT License** – do whatever you want with it, just don’t blame anyone if something goes wrong. See the `LICENSE` file for details.  
+This project is licensed under the **MIT License** – do whatever you want with it, just don’t blame anyone if something goes wrong.  
 
 ---
 
