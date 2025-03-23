@@ -18,7 +18,7 @@ Designed to be efficient, precise, and powerful.
 
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/batfile.git
+git clone https://github.com/ShanirajKorake/batfile.git
 cd batfile
 ```
 
